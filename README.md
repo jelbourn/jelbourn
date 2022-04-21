@@ -1,6 +1,6 @@
 ### Ahoy
 
-I'm Jeremy. I've been a software engineer at Google since 2012 and I currently work on the Angular team. I'm the tech lead for [angular/components](https://github.com/angular/components). I do stuff for [angular/angular](https://github.com/angular/angular), too. I ocassionally use my Google 20% time to advance the use of [Sass](https://github.com/sass/sass) inside Google. 
+I'm Jeremy. I've been a software engineer at Google since 2012 and I currently work on the Angular team. I ocassionally use my Google 20% time to advance the use of [Sass](https://github.com/sass/sass) inside Google. 
 
 I don't have a website, but I do have a vanity domain for my dog (http://mal.dog). 
 
